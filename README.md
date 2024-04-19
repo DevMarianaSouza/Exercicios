@@ -1,2 +1,2 @@
 # Exercicios
-Aqui estão meus exercícios. 
+Aqui estão meus exercícios!
